@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #1e3d20;
+    background-color: #173918;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #17241a;
+    background-color: #285f29;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -42,7 +42,7 @@
 }
 
 .name {
-    color: #ecf3c7;
+    color: #D6DBDF;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
