@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #173918;
+    background-color: #388e3c;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #285f29;
+    background-color: #8bc34a;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -33,7 +33,7 @@
 
 .profile {
     width: 100%;
-    border-bottom: 2px solid #eeeeee;
+    border-bottom: 2px solid #fff59d;
 }
 
 .profile .profile-image {
@@ -42,14 +42,14 @@
 }
 
 .name {
-    color: #D6DBDF;
+    color: #fff59d;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
 }
 
 .profession {
-    color: #eeeeee;
+    color: #fff59d;
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -57,7 +57,7 @@
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    color: #eeeeee;
+    color: #fff59d;
     font-size: 20px;
 }
 
@@ -68,14 +68,14 @@
 .contact-info ul li,
 .references ul li {
     padding: .4rem 0;
-    color: #eeeeee;
+    color: #fff59d;
 }
 
 .contact-info ul li i,
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
-    color: #eeeeee;
+    color: #fff59d;
 }
 
 .skills ul {
@@ -83,7 +83,7 @@
 }
 .skills ul li p {
     padding: .4rem 0;
-    color: #eeeeee;
+    color: #eeeac5;
 }
 
 .right-section-contents {
@@ -91,7 +91,7 @@
 }
 
 .right-title {
-    color: #eeeeee;
+    color: #eeeac5;
 }
 
 .gap {
@@ -99,7 +99,7 @@
 }
 .about-me-contents {
     font-size: 18px;
-    color: #eeeeee;
+    color: #eeeac5;
 }
 
 .experience-contents,
@@ -108,7 +108,7 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
-    color: #F1F8FD;
+    color: #eeeac5;
 }
 
 .exp-company-name,
